@@ -1,0 +1,2 @@
+solid = true;
+locked = true;

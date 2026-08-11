@@ -1,0 +1,1 @@
+room_goto(Part_2_level_1);
